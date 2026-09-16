@@ -1,0 +1,209 @@
+{
+  "checked_on": "2026-09-16",
+  "academic_year": "2026/27",
+  "programme": "ПМИ",
+  "year_of_study": 1,
+  "tracks": [
+    "М++",
+    "П+"
+  ],
+  "timezone_note": "Часовой пояс на страницах не указан. В сводке время приведено как в источнике; для московского курса ожидается МСК, это предположение.",
+  "items": [
+    {
+      "id": "comb-01",
+      "course": "combinatorics",
+      "title": "ДЗ 1",
+      "kind": "homework",
+      "status": "published",
+      "deadlines": [
+        {
+          "date": "2026-09-15",
+          "time": "18:10",
+          "precision": "minute",
+          "kind": "strict",
+          "source_text": "15 сентября, 18:10",
+          "year_basis": "Заголовок курса 2026/2027",
+          "timezone": null
+        }
+      ],
+      "assignment_url": "assignments/combinatorics-01.pdf#page=2",
+      "task_count": 7,
+      "note": "7 задач на странице 2; дата прошла на момент сборки.",
+      "source_url": "https://wiki.cs.hse.ru/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0_%D0%B8_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2_2026/2027",
+      "source_snapshot": "sources/combinatorics.md"
+    },
+    {
+      "id": "comb-02",
+      "course": "combinatorics",
+      "title": "ДЗ 2",
+      "kind": "homework",
+      "status": "published",
+      "deadlines": [],
+      "assignment_url": "assignments/combinatorics-02.pdf#page=2",
+      "task_count": 8,
+      "note": "8 задач на странице 2. Отдельный срок не опубликован; общее правило — перед следующим семинаром.",
+      "source_url": "https://wiki.cs.hse.ru/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0_%D0%B8_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2_2026/2027",
+      "source_snapshot": "sources/combinatorics.md"
+    },
+    {
+      "id": "algebra-01",
+      "course": "algebra",
+      "title": "ДЗ 1",
+      "kind": "homework",
+      "status": "published",
+      "deadlines": [
+        {
+          "date": "2026-09-16",
+          "time": null,
+          "precision": "event",
+          "kind": "recommended",
+          "source_text": "начало семинара 16 сентября",
+          "year_basis": "Заголовок курса 2026/2027",
+          "timezone": null
+        },
+        {
+          "date": "2026-09-23",
+          "time": null,
+          "precision": "event",
+          "kind": "strict",
+          "source_text": "начало семинара 23 сентября",
+          "year_basis": "Заголовок курса 2026/2027",
+          "timezone": null
+        }
+      ],
+      "assignment_url": "assignments/algebra-01.pdf",
+      "task_count": 13,
+      "note": "12 обычных задач и 1*. Часы начала семинаров и отдельный срок для 1* не указаны.",
+      "source_url": "https://wiki.cs.hse.ru/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D1%8B_2026/2027",
+      "source_snapshot": "sources/algebra.md"
+    },
+    {
+      "id": "analysis-01",
+      "course": "analysis",
+      "title": "ДЗ 1",
+      "kind": "homework",
+      "status": "not_assigned",
+      "deadlines": [],
+      "assignment_url": null,
+      "task_count": null,
+      "note": "Будет задано после окончания разбора первого листка.",
+      "source_url": "https://wiki.cs.hse.ru/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0_2026/2027",
+      "source_snapshot": "sources/analysis.md"
+    },
+    {
+      "id": "cpp-01",
+      "course": "cpp",
+      "title": "ДЗ 1",
+      "kind": "homework",
+      "status": "year_unconfirmed",
+      "deadlines": [
+        {
+          "date": null,
+          "time": "23:59",
+          "precision": "minute",
+          "kind": "strict",
+          "source_text": "1.10",
+          "year_basis": null,
+          "timezone": null
+        }
+      ],
+      "assignment_url": "https://base.cpp-hse.net/",
+      "task_count": null,
+      "note": "Год не указан; на странице группы БПМИ25*. Принадлежность 2026/27 не подтверждена. Условия требуют входа.",
+      "source_url": "https://wiki.cs.hse.ru/%D0%AF%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_C%2B%2B_(%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BA)",
+      "source_snapshot": "sources/cpp.md"
+    },
+    {
+      "id": "cpp-02",
+      "course": "cpp",
+      "title": "ДЗ 2",
+      "kind": "homework",
+      "status": "year_unconfirmed",
+      "deadlines": [
+        {
+          "date": null,
+          "time": "23:59",
+          "precision": "minute",
+          "kind": "strict",
+          "source_text": "19.10",
+          "year_basis": null,
+          "timezone": null
+        }
+      ],
+      "assignment_url": "https://base.cpp-hse.net/",
+      "task_count": null,
+      "note": "Год не указан; на странице группы БПМИ25*. Принадлежность 2026/27 не подтверждена. Условия требуют входа.",
+      "source_url": "https://wiki.cs.hse.ru/%D0%AF%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_C%2B%2B_(%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BA)",
+      "source_snapshot": "sources/cpp.md"
+    },
+    {
+      "id": "cpp-03",
+      "course": "cpp",
+      "title": "ДЗ 3 (Project)",
+      "kind": "homework",
+      "status": "year_unconfirmed",
+      "deadlines": [
+        {
+          "date": null,
+          "time": "23:59",
+          "precision": "minute",
+          "kind": "strict",
+          "source_text": "24.10",
+          "year_basis": null,
+          "timezone": null
+        }
+      ],
+      "assignment_url": "https://base.cpp-hse.net/",
+      "task_count": null,
+      "note": "Год не указан; на странице группы БПМИ25*. Принадлежность 2026/27 не подтверждена. Условия требуют входа.",
+      "source_url": "https://wiki.cs.hse.ru/%D0%AF%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_C%2B%2B_(%D0%BF%D0%B8%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9_%D0%BF%D0%BE%D1%82%D0%BE%D0%BA)",
+      "source_snapshot": "sources/cpp.md"
+    },
+    {
+      "id": "comb-video-01",
+      "course": "combinatorics",
+      "title": "Онлайн-лекция 1",
+      "kind": "preparation",
+      "status": "published",
+      "deadlines": [
+        {
+          "date": "2026-09-07",
+          "time": null,
+          "precision": "date",
+          "kind": "watch_before",
+          "source_text": "просьба посмотреть до 7.09",
+          "year_basis": "Заголовок курса 2026/2027",
+          "timezone": null
+        }
+      ],
+      "assignment_url": "https://disk.yandex.ru/d/-xv1z4M1iXNoNw",
+      "task_count": null,
+      "note": "Подготовка к курсу, не письменное ДЗ; время и включительность даты не указаны.",
+      "source_url": "https://wiki.cs.hse.ru/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0_%D0%B8_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2_2026/2027",
+      "source_snapshot": "sources/combinatorics.md"
+    },
+    {
+      "id": "comb-video-02",
+      "course": "combinatorics",
+      "title": "Онлайн-лекция 2",
+      "kind": "preparation",
+      "status": "published",
+      "deadlines": [
+        {
+          "date": "2026-09-21",
+          "time": null,
+          "precision": "date",
+          "kind": "watch_before",
+          "source_text": "просьба посмотреть до 21.09",
+          "year_basis": "Заголовок курса 2026/2027",
+          "timezone": null
+        }
+      ],
+      "assignment_url": "https://disk.yandex.ru/d/TnBxjd8ZBlQENA",
+      "task_count": null,
+      "note": "Подготовка к курсу, не письменное ДЗ; время и включительность даты не указаны.",
+      "source_url": "https://wiki.cs.hse.ru/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0_%D0%B8_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2_2026/2027",
+      "source_snapshot": "sources/combinatorics.md"
+    }
+  ]
+}
