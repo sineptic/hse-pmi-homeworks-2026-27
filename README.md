@@ -28,6 +28,8 @@
 
 ## Комбинаторика
 
+[Результаты](https://docs.google.com/spreadsheets/d/1YYJm1Zp9lBwohnh1sBmO9gQ-Cx1N6WMB8yRRzpM7O2U/edit?gid=1801201230#gid=1801201230)
+
 | Листок | Дедлайн |
 | --- | --- |
 | **[ДЗ 1](assignments/combinatorics-01.pdf)** · 7 задач | 15 сентября, 18:10 |
