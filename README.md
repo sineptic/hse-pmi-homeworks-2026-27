@@ -16,6 +16,8 @@
 
 ## Алгебра
 
+[Сдать ДЗ в Classroom](https://classroom.google.com/c/ODc3MjAwOTM4NDE2?cjc=ce4o7rwz) · [Результаты](https://docs.google.com/spreadsheets/d/1RXh7FZqaXv3KHRR5XkIYRoeyWddB363kYqOvUnQMie8/edit?usp=drivesdk)
+
 | Листок | Дедлайн |
 | --- | --- |
 | **[ДЗ 1](assignments/algebra-01.pdf)** · 12 задач + 1* | **23 сентября**, начало семинара; рекомендуемый — 16 сентября |
