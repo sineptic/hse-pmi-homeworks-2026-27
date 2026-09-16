@@ -4,6 +4,8 @@
 
 ## Матанализ
 
+[Сдать недельное ДЗ](https://docs.google.com/forms/d/e/1FAIpQLScAZoqidbTruQ6P06hj6rZxWEfdwydRGMI1ICgPQa9TmwTnbw/viewform) · [Сдать БДЗ и звёздочки](https://classroom.google.com/c/ODg0MjA5MjMwOTUz?hl=ru&cjc=nidqd7jk)
+
 | Листок | Тема |
 | --- | --- |
 | **[ДЗ 1](assignments/analysis-01.pdf)** | Иррациональность, суммы, неравенства |
@@ -12,7 +14,7 @@
 | **[ДЗ 4](assignments/analysis-04.pdf)** | Частичные пределы, критерий Коши |
 | **[ДЗ 5](assignments/analysis-05.pdf)** | Числовые ряды |
 
-В PDF оставлены только домашние задания. Условия опубликованы, но даты сдачи не опубликованы; текст Wiki всё ещё помечает ДЗ 1 как невыданное. Общее правило: загрузить решения **до семинара с разбором**. [Форма сдачи](https://docs.google.com/forms/d/e/1FAIpQLScAZoqidbTruQ6P06hj6rZxWEfdwydRGMI1ICgPQa9TmwTnbw/viewform).
+В PDF оставлены только домашние задания. Условия опубликованы, но даты сдачи не опубликованы; текст Wiki всё ещё помечает ДЗ 1 как невыданное. Общее правило: загрузить решения **до семинара с разбором**.
 
 ## Алгебра
 
