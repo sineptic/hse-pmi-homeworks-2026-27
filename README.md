@@ -28,7 +28,7 @@
 
 ## Комбинаторика
 
-[Результаты](https://docs.google.com/spreadsheets/d/1YYJm1Zp9lBwohnh1sBmO9gQ-Cx1N6WMB8yRRzpM7O2U/edit?gid=1801201230#gid=1801201230)
+[Сдать ДЗ в Classroom](https://classroom.google.com/c/ODI2MTQ2MDA4Mjgz?cjc=jkrj6hxq) · [Результаты](https://docs.google.com/spreadsheets/d/1YYJm1Zp9lBwohnh1sBmO9gQ-Cx1N6WMB8yRRzpM7O2U/edit?gid=1801201230#gid=1801201230)
 
 | Листок | Дедлайн |
 | --- | --- |
