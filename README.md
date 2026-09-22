@@ -6,13 +6,13 @@
 
 [Сдать недельное ДЗ](https://docs.google.com/forms/d/e/1FAIpQLScAZoqidbTruQ6P06hj6rZxWEfdwydRGMI1ICgPQa9TmwTnbw/viewform) · [Сдать БДЗ и звёздочки](https://classroom.google.com/c/ODg0MjA5MjMwOTUz?hl=ru&cjc=nidqd7jk)
 
-| Листок | Тема |
-| --- | --- |
-| **[ДЗ 1](assignments/analysis-01.pdf)** | Иррациональность, суммы, неравенства |
-| **[ДЗ 2](assignments/analysis-02.pdf)** | Последовательности, определение предела |
-| **[ДЗ 3](assignments/analysis-03.pdf)** | Пределы последовательностей |
-| **[ДЗ 4](assignments/analysis-04.pdf)** | Частичные пределы, критерий Коши |
-| **[ДЗ 5](assignments/analysis-05.pdf)** | Числовые ряды |
+| Листок | Тема | Дедлайн |
+| --- | --- | --- |
+| **[ДЗ 1](assignments/analysis-01.pdf)** | Иррациональность, суммы, неравенства | 22 сентября |
+| **[ДЗ 2](assignments/analysis-02.pdf)** | Последовательности, определение предела | 22 сентября |
+| **[ДЗ 3](assignments/analysis-03.pdf)** | Пределы последовательностей | — |
+| **[ДЗ 4](assignments/analysis-04.pdf)** | Частичные пределы, критерий Коши | — |
+| **[ДЗ 5](assignments/analysis-05.pdf)** | Числовые ряды | — |
 
 До начала разбора ДЗ **отметьте выполненные задачи в таблице недельных ДЗ**: поставьте 1 за каждую решённую задачу.
 
@@ -36,7 +36,7 @@
 | **[ДЗ 1](assignments/combinatorics-01.pdf)** · 7 задач | 15 сентября, 18:10 |
 | **[ДЗ 2](assignments/combinatorics-02.pdf)** · 8 задач | 22 сентября, 18:10 |
 | **[ДЗ 3](assignments/combinatorics-03.pdf)** · 7 задач | 27 сентября, 23:59 |
-| **[ДЗ 4](assignments/combinatorics-04.pdf)** · 7 задач | Дата не указана; общее правило — перед следующим семинаром |
+| **[ДЗ 4](assignments/combinatorics-04.pdf)** · 7 задач | — |
 
 Один раз за курс можно сдать на неделю позже, заранее предупредив ассистента.
 
