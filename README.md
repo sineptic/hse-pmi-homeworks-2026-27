@@ -6,6 +6,8 @@
 
 [Сдать недельное ДЗ](https://docs.google.com/forms/d/e/1FAIpQLScAZoqidbTruQ6P06hj6rZxWEfdwydRGMI1ICgPQa9TmwTnbw/viewform) · [Сдать БДЗ и звёздочки](https://classroom.google.com/c/ODg0MjA5MjMwOTUz?hl=ru&cjc=nidqd7jk)
 
+На эту неделю: **[ДЗ 3](assignments/analysis-03.pdf)**.
+
 | Листок | Тема | Дедлайн |
 | --- | --- | --- |
 | **[ДЗ 1](assignments/analysis-01.pdf)** | Иррациональность, суммы, неравенства | 22 сентября |
