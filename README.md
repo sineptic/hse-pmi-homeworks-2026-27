@@ -6,13 +6,11 @@
 
 [Сдать недельное ДЗ](https://docs.google.com/forms/d/e/1FAIpQLScAZoqidbTruQ6P06hj6rZxWEfdwydRGMI1ICgPQa9TmwTnbw/viewform) · [Сдать БДЗ и звёздочки](https://classroom.google.com/c/ODg0MjA5MjMwOTUz?hl=ru&cjc=nidqd7jk)
 
-На эту неделю: **[ДЗ 3](assignments/analysis-03.pdf)**.
-
 | Листок | Тема | Дедлайн |
 | --- | --- | --- |
 | **[ДЗ 1](assignments/analysis-01.pdf)** | Иррациональность, суммы, неравенства | 22 сентября |
 | **[ДЗ 2](assignments/analysis-02.pdf)** | Последовательности, определение предела | 22 сентября |
-| **[ДЗ 3](assignments/analysis-03.pdf)** | Пределы последовательностей | Дата не указана |
+| **[ДЗ 3](assignments/analysis-03.pdf)** | Пределы последовательностей | **До 6 октября 2026 (вторник)** |
 | **[ДЗ 4](assignments/analysis-04.pdf)** | Частичные пределы, критерий Коши | Дата не указана |
 | **[ДЗ 5](assignments/analysis-05.pdf)** | Числовые ряды | Дата не указана |
 
