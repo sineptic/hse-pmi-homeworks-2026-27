@@ -54,7 +54,8 @@
 
 | Задание | Срок |
 | --- | --- |
-| **[Листок 1](assignments/topology-01.pdf)** · № 1, 4, 6, 8, 9, 10, 20, 21, 24 | **Письменно до 23 сентября 2026 (среда)** |
-| **[Листок 2](assignments/topology-02.pdf)** · № 2, 4, 8, 10, 13, 14, 15, 21 | **До 2 октября 2026 (пятница)** |
+| **[Листок 1](assignments/topology-01.pdf)** · № 1, 4, 6, 8, 9, 10, 20, 21, 24 | **До 18 сентября 2026 (пятница), 23:59** |
+| **[Листок 2](assignments/topology-02.pdf)** · № 2, 4, 8, 10, 13, 14, 15, 21 | **До 2 октября 2026 (пятница), 23:59** |
+| **[Листок 3](assignments/topology-03.pdf)** · № 1, 7, 8, 9, 15, 19, 20, 21, 24 | **До 16 октября 2026 (пятница), 23:59** |
 
-Wiki: [алгебра](https://wiki.cs.hse.ru/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D1%8B_2026/2027) · [комбинаторика](https://wiki.cs.hse.ru/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0_%D0%B8_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2_2026/2027) · [матанализ](https://wiki.cs.hse.ru/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0_2026/2027).
+Wiki: [алгебра](https://wiki.cs.hse.ru/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D1%8B_2026/2027) · [комбинаторика](https://wiki.cs.hse.ru/%D0%9A%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D0%BA%D0%B0_%D0%B8_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%BE%D0%B2_2026/2027) · [матанализ](https://wiki.cs.hse.ru/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0_2026/2027) · [топология](https://wiki.cs.hse.ru/%D0%A2%D0%BE%D0%BF%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F).
