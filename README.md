@@ -4,6 +4,8 @@
 
 ## Матанализ
 
+Проверено 14.10.2026.
+
 [Сдать недельное ДЗ](https://docs.google.com/forms/d/e/1FAIpQLScAZoqidbTruQ6P06hj6rZxWEfdwydRGMI1ICgPQa9TmwTnbw/viewform) · [Сдать БДЗ и звёздочки](https://classroom.google.com/c/ODg0MjA5MjMwOTUz?hl=ru&cjc=nidqd7jk)
 
 | Недельный листок | Тема | Дедлайн |
@@ -13,6 +15,9 @@
 | **[ДЗ 3](assignments/analysis-03.pdf)** | Пределы последовательностей | 6 октября |
 | **[ДЗ 4](assignments/analysis-04.pdf)** | Частичные пределы, критерий Коши | Дата не указана |
 | **[ДЗ 5](assignments/analysis-05.pdf)** | Числовые ряды | Дата не указана |
+| **[ДЗ 6](assignments/analysis-06.pdf)** | Множества и пределы функций | Дата не указана |
+| **[ДЗ 7](assignments/analysis-07.pdf)** | O-символика, вычисление пределов | Дата не указана |
+| **[ДЗ 8](assignments/analysis-08.pdf)** | Главная часть, непрерывность | Дата не указана |
 
 | Другие задания | Тема | Дедлайн |
 | --- | --- | --- |
