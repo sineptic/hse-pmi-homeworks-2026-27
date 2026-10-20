@@ -1,10 +1,8 @@
 # Домашки ПМИ · М++
 
-1 курс · 2026/27 · обновлено 07.10.2026 · ДЗ по порядку
+1 курс · 2026/27 · обновлено 20.10.2026 · ДЗ по порядку
 
 ## Матанализ
-
-Проверено 14.10.2026.
 
 [Сдать недельное ДЗ](https://docs.google.com/forms/d/e/1FAIpQLScAZoqidbTruQ6P06hj6rZxWEfdwydRGMI1ICgPQa9TmwTnbw/viewform) · [Сдать БДЗ и звёздочки](https://classroom.google.com/c/ODg0MjA5MjMwOTUz?hl=ru&cjc=nidqd7jk)
 
